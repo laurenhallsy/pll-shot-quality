@@ -28,8 +28,6 @@ What separates a goal from a save in professional lacrosse? Most people would sa
 | Shot data | 7,745 | 2019–2021 | One row per shot: location (X, Y), result, assisted/unassisted, shooter, goalie, team, college |
 | Player stats | 1,000 | 2023–2026 | Per-game player statistics, used to join shooter position |
 
-Raw data files are not included in this repo. See [`data/README.md`](data/README.md) for sources.
-
 ---
 
 ## Approach
@@ -95,4 +93,4 @@ R · tidyverse · ggplot2 · sportyR · Quarto
 
 Built by **Lauren Hall**, Business Information & Analytics student and Division I lacrosse goalie at the University of Denver.
 
-[LinkedIn]([https://www.linkedin.com/in/laurenhalll/]) · [Email](mailto:lauren@chezhall.com)
+[LinkedIn](https://www.linkedin.com/in/laurenhalll/) · [Email](mailto:lauren@chezhall.com)
